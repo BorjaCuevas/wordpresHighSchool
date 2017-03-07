@@ -1,0 +1,46 @@
+<form id="nueva-actividad" class="nueva-actividad" name="nueva-actividad">
+    <input type="hidden" name="idActividad">
+    <input type="text" name="titulo" id="titulo" class="na-titulo na-input" placeholder="Activity title..."><span></span>
+    <input type="date" name="fecha" id="fecha" class="na-fecha na-input" value="Activity date..."><span></span>
+    <input type="text" name="idGrupo" class="na-grupo na-select" list="grupos" placeholder="Group"/>
+    <datalist id="grupos" name="grupo">
+        <option value="Hola" class="select-default-option"/>
+    </datalist><span></span>
+    <select id="actvDepart" class="na-departamento na-select" name="departamento">
+        <option value="defecto" class="select-default-option">Select department...</option>
+        <option value="Computing">Computing</option>
+        <option value="Sports">Sports</option>
+        <option value="Languajes">Languajes</option>
+        <option value="Science">Science</option>
+        <option value="Art">Art</option>
+        <option value="History">History</option>
+        <option value="Literature">Literature</option>
+        <option value="Math">Math</option>
+        </optgroup>
+    </select><span></span>
+    <textarea name="descripcion" id="textarea" class="na-descripcion na-input" placeholder="Activity description..."></textarea><span></span>
+    <div class="horas">
+        <label for="horaInicio">Start</label>
+        <input type="time" id="oraIni" name="horaInicio" class="na-horaInicio na-input" placeholder="Start time"><span></span>
+        <label for="horaFinal">Finish</label>
+        <input type="time" id="oraFin" name="horaFinal" class="na-horaFinal na-input" placeholder="End time"><span></span>
+    </div>
+    
+    <div class="na-seccion">
+        <div class="na-profile">
+            <input type="file" name='imagen-actividad' id="imagen-actividad" class="na-subir">
+            <div name="a-imagen" class="na-imagen" id="imagen-muestra-actividad"></div>
+        </div>
+        <div class="na-map">
+            <div class="map-find">
+                <input type="text" maxlength="100" name="lugar" id="address" class="na-address na-input" placeholder="Address"/><span></span>
+                <input type="button" id="search" class="na-search na-boton" value="Find" />
+            </div>
+            <div id='map_canvas' class="na-map-canvas"></div>
+        </div>
+    </div>
+    <div class="na-botones">
+        <input type="button" class="na-boton back" value="Back"/>
+        <input type="button" name="create-actividad" id="btn-nueva-actividad" class="btn-nueva-actividad na-boton" value="Done">
+    </div>
+</form>

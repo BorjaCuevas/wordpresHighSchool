@@ -1,0 +1,21 @@
+WORDPRESS
+________________________________________________________________________________
+
+>> links de wordpress
+    · Home
+    · About // Inside the page
+    · News // Blog
+    · Activities // Dynamic page create with Javascript, info from database and a very big loop joining a template and information
+    · Contact
+
+>> multilenguaje
+    - http://manuelvicedo.com/guias/guia-wordpress-multiidioma/
+    - poedit para hacer los archivos po
+    
+Key para maps:  AIzaSyCRPuWc-sTGIXUrDuVIzKOvAL8rW5x4Oqs 
+
+// borrada la clase usuario
+
+>> CONTENIDO ACTIVIDAD
+
+    fusilar wikiloc -> darle a buscar nuevas rutas

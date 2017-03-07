@@ -1,0 +1,4 @@
++ precargaImagenes
++ validacion
++ search en el backend
++ mapas

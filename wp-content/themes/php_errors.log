@@ -1,0 +1,9 @@
+[02-Feb-2017 09:53:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/ieslubois/index.php on line 1
+[02-Feb-2017 09:53:28 UTC] PHP Stack trace:
+[02-Feb-2017 09:53:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/ieslubois/index.php:0
+[21-Feb-2017 08:44:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/newies/index.php on line 1
+[21-Feb-2017 08:44:43 UTC] PHP Stack trace:
+[21-Feb-2017 08:44:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/newies/index.php:0
+[22-Feb-2017 09:51:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/lubois-theme/index.php on line 1
+[22-Feb-2017 09:51:09 UTC] PHP Stack trace:
+[22-Feb-2017 09:51:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/lubois-theme/index.php:0

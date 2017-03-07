@@ -1,0 +1,29 @@
+a {
+    color: red;
+}
+#paginacion{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    order: 40000000;
+}
+
+.paging{
+    flex-direction: row;
+    justify-content: space-around;
+    
+    font-family: 'Roboto-Regular';
+    color: #999;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.paging *{
+    flex: none;
+    margin: 10px;
+    text-decoration: none;
+    
+}
+

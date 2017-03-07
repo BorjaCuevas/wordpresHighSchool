@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lubois-theme\n"
+"POT-Creation-Date: 2017-03-06 09:38+0100\n"
+"PO-Revision-Date: 2017-03-06 09:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: lubois-theme\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: template-parts/nav.php\n"
+"X-Poedit-SearchPath-1: footer.php\n"
+"X-Poedit-SearchPath-2: header.php\n"
+"X-Poedit-SearchPath-3: sidebar.php\n"
+"X-Poedit-SearchPath-4: front-page.php\n"
+
+#: footer.php:6
+msgid "School"
+msgstr "colegio"
+
+#: footer.php:8
+msgid "About us"
+msgstr "Sobre nosotros"
+
+#: footer.php:9
+msgid "Meet the teachers"
+msgstr "Conozca a los profesores"
+
+#: footer.php:10
+msgid "Copyright"
+msgstr "Derechos de autor"
+
+#: footer.php:11
+msgid "Terms of use"
+msgstr "Términos de Uso"
+
+#: footer.php:12
+msgid "Privacy policy"
+msgstr "Política de privacidad"
+
+#: footer.php:13
+msgid "Contact us"
+msgstr "Contáctenos"
+
+#: footer.php:20
+msgid "Support"
+msgstr "Apoyo"
+
+#: footer.php:22 footer.php:73
+msgid "Faq"
+msgstr "Preguntas más frecuentes"
+
+#: footer.php:23
+msgid "Blog"
+msgstr "Blog"
+
+#: footer.php:24
+msgid "Forum"
+msgstr "Foro"
+
+#: footer.php:25
+msgid "Documentation"
+msgstr "Documentación"
+
+#: footer.php:26
+msgid "Student grant"
+msgstr "Beca estudiantil"
+
+#: footer.php:33
+msgid "Education"
+msgstr "Educación"
+
+#: footer.php:35
+msgid "Android Development"
+msgstr "Desarrollo de Android"
+
+#: footer.php:36
+msgid "Web Development"
+msgstr "Desarrollo web"
+
+#: footer.php:37
+msgid "Computing System"
+msgstr "Sistema de computación"
+
+#: footer.php:38
+msgid "Telecommunications"
+msgstr "Telecomunicaciónes"
+
+#: footer.php:39
+msgid "Administration"
+msgstr "Administración"
+
+#: footer.php:40
+msgid "Laboratory"
+msgstr "Laboratorio"
+
+#: footer.php:41
+msgid "International Trade"
+msgstr "El comercio internacional"
+
+#: footer.php:48 front-page.php:571
+msgid "Our Partners"
+msgstr "Nuestros compañeros"
+
+#: footer.php:50
+msgid "Adipisicing Elit"
+msgstr "Adipisicing Elit"
+
+#: footer.php:51
+msgid "Eiusmod"
+msgstr "Eiusmod"
+
+#: footer.php:52
+msgid "Tempor"
+msgstr "Temporal"
+
+#: footer.php:53
+msgid "Veniam"
+msgstr "Veniam"
+
+#: footer.php:54
+msgid "Exercitation"
+msgstr "Ejercicio"
+
+#: footer.php:55
+msgid "Ullamco"
+msgstr "Ullamco"
+
+#: footer.php:71 template-parts/nav.php:44
+msgid "Home"
+msgstr "Inicio"
+
+#: footer.php:72 template-parts/nav.php:46
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: footer.php:74
+msgid "Contact Us"
+msgstr "Contáctenos"
+
+#: front-page.php:19
+msgid "First Class Prep Results"
+msgstr "Resultados de Preparación de Primera Clase"
+
+#: front-page.php:20
+msgid ""
+"Please find the dates of our open days and evenings in the following table. "
+"If these dates aren’t suitable we can arrange a private tour for you to see "
+"the school."
+msgstr ""
+"Por favor, encuentre las fechas de nuestros días y noches en la siguiente "
+"tabla. Si estas fechas no son adecuadas podemos organizar un tour privado "
+"para que usted pueda ver la escuela."
+
+#: front-page.php:21
+msgid "Visitis us"
+msgstr "Visítenos"
+
+#: front-page.php:33
+msgid "State schools let you down?"
+msgstr "¿Las escuelas estatales te defraudan?"
+
+#: front-page.php:34
+msgid ""
+"Consider an outstanding independent option. Admissions Office, North Bridge "
+"House School, 65 Rosslyn Hill, Hampstead, London, NW3 5UD"
+msgstr ""
+"Considere una opción independiente sobresaliente. Oficina de Admisiones, "
+"North Bridge House School, 65 Rosslyn Hill, Hampstead, Londres, NW3 5UD"
+
+#: front-page.php:35 template-parts/nav.php:52
+msgid "Contact"
+msgstr "Conctactos"
+
+#: front-page.php:50
+msgid "Meet the Head Morning Teas"
+msgstr "Conoce a los Tés principales de la mañana"
+
+#: front-page.php:51
+msgid ""
+"From the early years of education through to A-Level study, North Bridge "
+"House stands out from the North London school archetype, swapping hothouse "
+"academia for its more nurturing approach"
+msgstr ""
+"Desde los primeros años de educación hasta el estudio A-Level, North Bridge "
+"House se destaca del arquetipo de la escuela North London, cambiando la "
+"academia invernadero por su enfoque más nutritivo"
+
+#: front-page.php:52
+msgid "Find out"
+msgstr "Descubrir"
+
+#: front-page.php:76
+msgid "Vocational Education and Training"
+msgstr "Educacion vocacional y entrenamiento"
+
+#: front-page.php:77
+msgid ""
+"Professional training refers to all those studies and learning aimed at the "
+"insertion, reinsertion<br>and updating of work, whose main objective is to "
+"increase and adapt the knowledge<br>and skills of current and future workers "
+"throughout their lives."
+msgstr ""
+"Formación profesional se refiere a todos aquellos estudios y aprendizajes "
+"dirigidos a la inserción, reinserción y actualización del trabajo, cuyo "
+"objetivo principal es aumentar y adaptar el </br> conocimiento y las "
+"competencias de los trabajadores actuales y futuros a lo largo de su vida."
+
+#: front-page.php:85
+msgid "Networked Computer Systems"
+msgstr "Sistemas informáticos en red"
+
+#: front-page.php:86
+msgid "Configure, manage and maintain systems."
+msgstr "Configurar, administrar y mantener sistemas."
+
+#: front-page.php:93
+msgid "Web Applications Development"
+msgstr "Desarrollo de Aplicaciones Web"
+
+#: front-page.php:94
+msgid "Develop functional web applications."
+msgstr "Desarrollar aplicaciones web funcionales."
+
+#: front-page.php:101
+msgid "Multiplatform Applications"
+msgstr "Aplicaciones Multiplataforma"
+
+#: front-page.php:102
+msgid "Develop multiplatform applications."
+msgstr "Desarrollar aplicaciones multiplataforma."
+
+#: front-page.php:109
+msgid "Telecommunications Systems"
+msgstr "Sistemas de Telecomunicaciones."
+
+#: front-page.php:110
+msgid "The latest tecnoligias always within our reach"
+msgstr "Las últimas tecnoligias siempre a nuestro alcance"
+
+#: front-page.php:117
+msgid "Administration and Finance"
+msgstr "Administración y finanzas"
+
+#: front-page.php:118
+msgid "We manage all data without problems"
+msgstr "Gestionamos todos los datos sin problemas"
+
+#: front-page.php:125
+msgid "Laboratory Technician"
+msgstr "Técnico de laboratorio"
+
+#: front-page.php:126
+msgid "We have 5 classrooms and 3 of the best scientists"
+msgstr "Tenemos 5 aulas y 3 de los mejores científicos"
+
+#: front-page.php:139
+msgid "Recent Photos"
+msgstr "Fotos recientes"
+
+#: front-page.php:140
+msgid ""
+" We focus on each student as an individual, offering the very best teaching "
+"and educational resources.\n"
+"We aim to build confident students, enabling<br> study at a wide range of "
+"degree  courses at top universities.\n"
+"We are noted for our  friendliness, informality, and we treat our students "
+"as young adults."
+msgstr ""
+"Nos centramos en cada estudiante como un individuo, ofreciendo la mejor "
+"enseñanza y recursos educativos.\n"
+"Nuestro objetivo es construir estudiantes confiados, <br>permitiendo que el "
+"estudio en una amplia gama de cursos de grado en las mejores universidades.\n"
+"Nos distinguimos por nuestra amabilidad, informalidad y tratamos a nuestros "
+"estudiantes como adultos jóvenes."
+
+#: front-page.php:152
+msgid "A DAY IN A VIRTUAL REALITY"
+msgstr "UN DÍA EN UNA REALIDAD VIRTUAL"
+
+#: front-page.php:153
+msgid ""
+"Who kindly provided the Science department with three virtual reality "
+"headsets for the day!"
+msgstr ""
+"¡Quién amablemente proporcionó al departamento de la ciencia tres "
+"auriculares de la realidad virtual para el día!"
+
+#: front-page.php:154 front-page.php:167 front-page.php:180 front-page.php:193
+#: front-page.php:206 front-page.php:219 front-page.php:232 front-page.php:245
+msgid "View"
+msgstr "Ver"
+
+#: front-page.php:165
+msgid "ALUMNI NETBALL"
+msgstr "Alumnos de Baloncesto"
+
+#: front-page.php:166
+msgid ""
+"We had over 25 alumni from that have left the school. The standard of "
+"netball was very high considering."
+msgstr ""
+"Tuvimos más de 25 alumnos que han abandonado la escuela. El nivel de netball "
+"fue muy alto teniendo en cuenta."
+
+#: front-page.php:178
+msgid "UNIVERSITY 2016 "
+msgstr "Universidad 2016"
+
+#: front-page.php:179
+msgid ""
+"We are proud to confirm the following university destinations for our 2016 "
+"leavers."
+msgstr ""
+"Estamos orgullosos de confirmar los siguientes destinos universitarios para "
+"nuestros 2016."
+
+#: front-page.php:191
+msgid "GCSE RESULTS"
+msgstr "RESULTADOS DEL GCSE"
+
+#: front-page.php:192
+msgid ""
+"GCSE results for the 2015/16 upper fifth Congratulations to all members of "
+"the King’s"
+msgstr ""
+"GCSE resultados para el 2015/16 quinto superior Felicitaciones a todos los "
+"miembros de la King's"
+
+#: front-page.php:204
+msgid "THE STARS"
+msgstr "LAS ESTRELLAS"
+
+#: front-page.php:205
+msgid ""
+"We were delighted to welcome Dr Leah-Nani Alconcel of Imperial College to "
+"talk about her"
+msgstr ""
+"Estuvimos encantados de dar la bienvenida a la Dra. Leah-Nani Alconcel del "
+"Imperial College para hablar de ella"
+
+#: front-page.php:217
+msgid "Leavers Day"
+msgstr "Día de los Leavers"
+
+#: front-page.php:218
+msgid ""
+"Activities at Kingsway were laid on by staff and included a bucking bronco."
+msgstr ""
+"Las actividades en Kingsway fueron establecidas por el personal y incluido "
+"un bucking bronco."
+
+#: front-page.php:230
+msgid "Tegan McNicholas"
+msgstr "Tegan McNicholas"
+
+#: front-page.php:231
+msgid ""
+"Tegan McNicholas (current LVI) has been chosen to captain Wales in the home "
+"internationals tournament in April"
+msgstr ""
+"Tegan McNicholas (actual LVI) ha sido elegido para capitán de Gales en el "
+"torneo internacional de casa en abril"
+
+#: front-page.php:243
+msgid "Surrey Schools "
+msgstr "Escuelas de Surrey"
+
+#: front-page.php:244
+msgid ""
+"Seven King’s pupils represented Merton in the Surrey Schools Cross-Country "
+"Championships"
+msgstr ""
+"Siete alumnos de King representaron a Merton en el Surrey Schools Cross-"
+"Country Championships"
+
+#: front-page.php:258
+msgid "Some of Our Services"
+msgstr "Algunos de nuestros servicios"
+
+#: front-page.php:259
+msgid ""
+"We aim to provide students and parents with as much information as possible. "
+"If you require any further information or you require assistance with "
+"applications please call us on +44 (0) 20 7935 8411."
+msgstr ""
+"Nuestro objetivo es proporcionar a los estudiantes y los padres con tanta "
+"información como sea posible. Si necesita más información o necesita ayuda "
+"con las aplicaciones, por favor llámenos al +44 (0) 20 7935 8411."
+
+#: front-page.php:270
+msgid "Teachers Council"
+msgstr "Consejo de Maestros"
+
+#: front-page.php:271
+msgid "A career in teaching means having the chance to make."
+msgstr "Una carrera en la enseñanza significa tener oportunidad."
+
+#: front-page.php:282
+msgid "Library"
+msgstr "Biblioteca"
+
+#: front-page.php:283
+msgid "College Library is a rare book library of international"
+msgstr "College Library es una biblioteca de libros raros de"
+
+#: front-page.php:294
+msgid "Work Formation"
+msgstr "Formación de trabajo"
+
+#: front-page.php:295
+msgid "The best training so far in the center"
+msgstr "El mejor entrenamiento hasta ahora en el centro"
+
+#: front-page.php:306
+msgid "Innovation"
+msgstr "Innovación"
+
+#: front-page.php:307
+msgid "First center in new technologies"
+msgstr "Primer centro de nuevas tecnologías"
+
+#: front-page.php:318
+msgid "Eco-Friendly"
+msgstr "Ecologico"
+
+#: front-page.php:319
+msgid "We are the most ecological of the clouds."
+msgstr "Somos los más ecológicos de las nubes."
+
+#: front-page.php:330
+msgid "Workshops"
+msgstr "Talleres"
+
+#: front-page.php:331
+msgid "We have the most specialized workshops."
+msgstr "Tenemos los talleres más especializados."
+
+#: front-page.php:344
+msgid "Our Installations"
+msgstr "Nuestras Instalaciones"
+
+#: front-page.php:345
+msgid ""
+"Our modern facilities offer a unique and peaceful atmosphere for our "
+"students. Guaranteeing a unique good<br> and pivate. We have great services "
+"and amenities"
+msgstr ""
+"Nuestras instalaciones modernas ofrecen un ambiente único y tranquilo para "
+"nuestros estudiantes. Garantizar una buena <br> única y pivate. Tenemos "
+"grandes servicios y comodidades"
+
+#: front-page.php:385
+msgid "Guaranteed Success"
+msgstr "Éxito garantizado"
+
+#: front-page.php:386
+#, php-format
+msgid ""
+"All our students, up to 98% of enrolled students get the passed with "
+"magnificent notes and an impeccable history"
+msgstr ""
+"Todos nuestros estudiantes, hasta el 98% de los estudiantes matriculados "
+"reciben el aprobado con notas magníficas y una historia impecable"
+
+#: front-page.php:395
+msgid "Promotes"
+msgstr "Promueve"
+
+#: front-page.php:404
+msgid "VET"
+msgstr "Veterinario"
+
+#: front-page.php:413
+msgid "Work"
+msgstr "Trabajo"
+
+#: front-page.php:422
+msgid "University"
+msgstr "Universidad"
+
+#: front-page.php:435
+msgid "Team of Corlate"
+msgstr "Equipo de Corlate"
+
+#: front-page.php:437
+msgid ""
+"Our management team has many years of experience and the best professionals "
+"in the high positions of the center, obtaining the fantastic statistics and "
+"<br>the great interest of the students by the approved with note"
+msgstr ""
+"Nuestro equipo directivo tiene muchos años de experiencia y los mejores "
+"profesionales en las altas posiciones del centro, obteniendo las "
+"estadísticas fantásticas y el gran interés de los estudiantes por el "
+"aprobado con nota"
+
+#: front-page.php:448
+msgid "Rene Reynald"
+msgstr "Rene Reynald"
+
+#: front-page.php:451
+msgid "Science"
+msgstr "Ciencia"
+
+#: front-page.php:452 front-page.php:547
+msgid "Math"
+msgstr "Mates"
+
+#: front-page.php:453
+msgid "Computing"
+msgstr "Informática"
+
+#: front-page.php:462
+msgid ""
+"Multi-purpose profile, looking for professional stability, interested in "
+"joining an organization that allows him to develop as a professional."
+msgstr ""
+"Perfil multiusos, buscando estabilidad profesional, interesado en unirse a "
+"una organización que le permita desarrollarse como profesional."
+
+#: front-page.php:474
+msgid "Jhon Doe"
+msgstr "Jhon Doe"
+
+#: front-page.php:475
+msgid "Vice Principal"
+msgstr "Subdirector"
+
+#: front-page.php:477
+msgid "History"
+msgstr "Historia"
+
+#: front-page.php:478
+msgid "English"
+msgstr "Ingles"
+
+#: front-page.php:479
+msgid "Literature"
+msgstr "Literatura"
+
+#: front-page.php:488
+msgid ""
+"Professor of literature and mathematics with more than 10 years of "
+"experience and licensed at the University of Texas."
+msgstr ""
+"Profesor de literatura y matemáticas con más de 10 años de experiencia y "
+"licenciado en la Universidad de Texas."
+
+#: front-page.php:519
+msgid "Troy Mclure"
+msgstr "Troy Mclure"
+
+#: front-page.php:520
+msgid "Department Manager"
+msgstr "Gerente de departamento"
+
+#: front-page.php:522
+msgid "Geography"
+msgstr "Geografia"
+
+#: front-page.php:523
+msgid "Languajes"
+msgstr "Lenguajes"
+
+#: front-page.php:524
+msgid "Biology"
+msgstr "Bibliografia"
+
+#: front-page.php:533
+msgid ""
+"Lover of the geography I have more than 20 years of experience, also "
+"specializing in biology and language, always ready to teach"
+msgstr ""
+"Amante de la geografía Tengo más de 20 años de experiencia, también "
+"especializado en biología y lenguaje, siempre dispuesto a enseñar"
+
+#: front-page.php:543
+msgid "Mary Jane"
+msgstr "Mary Jane"
+
+#: front-page.php:544
+msgid "Studies Coordinator"
+msgstr "Coordinador de Estudios"
+
+#: front-page.php:546
+msgid "Economics"
+msgstr "Ciencias económicas"
+
+#: front-page.php:548
+msgid "Physic"
+msgstr "Medicamento"
+
+#: front-page.php:557
+msgid ""
+"Economist and lover of numbers I am always willing to teach and explain all "
+"my knowledge to my students."
+msgstr ""
+"Economista y amante de los números Siempre estoy dispuesto a enseñar y "
+"explicar todo mi conocimiento a mis estudiantes."
+
+#: front-page.php:572
+msgid ""
+"Thanks to them we can enjoy all our facilities in perfect condition and have "
+"new technologies for our students.<br> Getting the best benefits for "
+"everyone."
+msgstr ""
+"Gracias a ellos podemos disfrutar de todas nuestras instalaciones en "
+"perfectas condiciones y disponer de nuevas tecnologías para nuestros "
+"estudiantes. <br> Obtener los mejores beneficios para todos."
+
+#: front-page.php:596
+msgid "Have a question or need a custom quote?"
+msgstr "¿Tiene alguna pregunta o necesita un presupuesto personalizado?"
+
+#: front-page.php:597
+msgid ""
+"Contact us to solve any doubt about the registration in our time or any "
+"other question you have, we will always be at your disposal on the phone "
+"+0123 456 70 80"
+msgstr ""
+"Contacte con nosotros para resolver cualquier duda sobre el registro en "
+"nuestro tiempo o cualquier otra pregunta que tenga, siempre estaremos a su "
+"disposición en el teléfono +0123 456 70 80"
+
+#: sidebar.php:6
+msgid "Recent Posts"
+msgstr "Post recientes"
+
+#: sidebar.php:34
+msgid "Categories"
+msgstr "Categorias"
+
+#: sidebar.php:45
+msgid "Archieve"
+msgstr "Archivos"
+
+#: sidebar.php:62
+msgid "Tag Cloud"
+msgstr "Etiquetas"
+
+#: template-parts/nav.php:48
+msgid "News"
+msgstr "Noticias"
+
+#: template-parts/nav.php:50
+msgid "Activities"
+msgstr "Actividades"
+
+#: template-parts/nav.php:54
+msgid "Teacher access"
+msgstr "Acceso Profesor"

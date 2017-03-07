@@ -1,0 +1,5 @@
+color principal: #DA1A01 (naranja)
+color secundario: #13171A
+
+fusilar:
+    https://saveourpublicschoolsma.com/
