@@ -181,6 +181,7 @@
             montarPlantilla(objetoJson);
             asociarEventos();
             validateNewProfesor();
+            precargaImagenes();
             naranja();
             goBack();
         });
@@ -394,7 +395,11 @@
         if (FileReader && files && files.length) {
             var fr = new FileReader();
             fr.onload = function () {
-                document.getElementById('fotoEditarPerfil').src = fr.result;
+                if($('#fotoEditarPerfil').get(0)){
+                    document.getElementById('fotoEditarPerfil').src = fr.result;   
+                }else if($('#fotoCrearPerfil').get(0)){
+                    document.getElementById('fotoCrearPerfil').src = fr.result;
+                }
             }
             fr.readAsDataURL(files[0]);
         }

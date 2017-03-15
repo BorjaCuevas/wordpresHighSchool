@@ -5,9 +5,11 @@ class FrontController {
     private $controlador;
     private $modelo;
     private $vista;
+    private $session;
 
     function __construct($nombreRuta = null) {
-
+        $this->session = Session::getInstance('iesLubois');
+        
         $nombreRuta = strtolower($nombreRuta);
 
         $router = new Router();
@@ -24,11 +26,15 @@ class FrontController {
 
     function doAction($accion = null) {
         $accion = strtolower($accion);
-        if (method_exists($this->controlador, $accion)) {
-            $this->controlador->$accion();
-        } else {
-            $this->controlador->index();
-        }
+        // if($this->session->isLogged() || $accion == 'getactivitieswp' || $accion == 'getallprofesor' || $accion == 'login'){
+            if (method_exists($this->controlador, $accion)) {
+                    $this->controlador->$accion();
+                
+            } else {
+                $this->controlador->index();
+            }
+        // }
+        
     }
     
     function getOutput() {

@@ -32,13 +32,13 @@
         var nombres = new Array();
         
         actividades.each(function(){
-            nombres.push($(this).find('.a-titulo').text());
+            nombres.push($(this).find('[name="titulo"]').text().toLowerCase());
         })
         nombres.sort();
         
         for(var i = 0; i<nombres.length; i++){
             actividades.each(function(){
-                if(nombres[i] == $(this).find('.a-titulo').text()){
+                if(nombres[i] == $(this).find('[name="titulo"]').text().toLocaleLowerCase()){
                     $(this).css('order', i);
                 } 
             })
@@ -55,13 +55,13 @@
         var nombres = new Array();
         
         actividades.each(function(){
-            nombres.push($(this).find('.a-fecha').text());
+            nombres.push($(this).find('[name="fecha"]').text());
         })
         nombres.sort();
         
         for(var i = 0; i<nombres.length; i++){
             actividades.each(function(){
-                if(nombres[i] == $(this).find('.a-fecha').text()){
+                if(nombres[i] == $(this).find('[name="fecha"]').text()){
                     $(this).css('order', i);
                 } 
             })
@@ -77,14 +77,14 @@
         
         if(departamento != ""){
             actividades.each(function(){
-                nombres.push($(this).find('.a-titulo').text());
+                nombres.push($(this).find('[name="titulo"]').text());
                 $(this).hide();
             })
             nombres.sort();
             
             for(var i = 0; i<nombres.length; i++){
                 actividades.each(function(){
-                    if(departamento == $(this).find('.a-departamento').text()){
+                    if(departamento == $(this).find('[name="departamento"]').text()){
                         $(this).show();
                     } 
                 })
@@ -113,7 +113,7 @@
             
             if(that != ""){
                 actividades.each(function(){
-                    if(!$(this).find('.a-titulo').text().toLocaleUpperCase().indexOf(that) || !$(this).find('.a-descripcion').text().toLocaleUpperCase().indexOf(that)){
+                    if(!$(this).find('[name="titulo"]').text().toLocaleUpperCase().indexOf(that) || !$(this).find('[name="descripcion"]').text().toLocaleUpperCase().indexOf(that)){
                         $(this).show();
                     }
                 })

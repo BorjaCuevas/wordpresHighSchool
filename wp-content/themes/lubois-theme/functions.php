@@ -130,11 +130,13 @@ add_action('widgets_init', 'generaltheme_widgets_init');
 
 function filter_get_pages($pages){
     foreach($pages as $page){
+        if (!is_admin() ){
         $link = get_page_link($page->ID);
         if($page->post_title == 'Nuevas adquisiciones'){
             echo '<li><a href="'.esc_url(home_url()).'#Cartelera">'.$page->post_title.'</a></li>';
         }else{
             echo '<li><a href="'.$link.'">'.$page->post_title.'</a></li>';
+        }
         }
     }
     return $pages;

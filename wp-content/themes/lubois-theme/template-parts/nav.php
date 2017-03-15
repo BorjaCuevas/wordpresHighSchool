@@ -43,7 +43,7 @@
                         <!-- front-page -->
                         <li class="<?php if(is_front_page()){echo 'active';} ?>"><a href="<?php echo get_option('home'); ?>"><?php echo  _e('Home'); ?></a></li>
                         <!-- link inside-page -->
-                        <li><a id="ancla-about" href="<?php echo get_option('home');?>/#about-us"><?php echo  _e('About Us'); ?></a></li>
+                        <li><a id="ancla-about" href="<?php echo get_option('home');?>/#about-us/"><?php echo  _e('About Us'); ?></a></li>
                         <!-- blog / home -->
                         <li class="<?php if(is_home()){echo 'active';} ?>"><a href="<?php echo get_page_link(get_page_by_title('News')->ID); ?>"><?php echo  _e('News'); ?></a></li>
                         <!-- pagina estatica -->

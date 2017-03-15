@@ -1,4 +1,8 @@
 
+
+
+
+
 //---- nueva actividad grupos -----
 $('#nuevaActividad').parent('li').on('click', function() {
         $.ajax({
@@ -316,6 +320,7 @@ function eventoBotonesActividad(){
             montarPlantilla(objetoJson);
             editActivity();
             montarMapa();
+            precargaImagenesActividad();
             //buscador();
             goBack();
         }).fail(function(objetoJson){
@@ -431,7 +436,7 @@ function goBack() {
         if (FileReader && files && files.length) {
             var fr = new FileReader();
             fr.onload = function () {
-                $('#imagen-muestra-actividad').css({'background-image': fr.result});
+                document.getElementById('imagen-muestra-actividad').src = fr.result;
             }
             fr.readAsDataURL(files[0]);
         }
@@ -569,7 +574,7 @@ function goBack() {
             $(this).show();
         })
                 
-        $('#buscador').find('.buscador').on('keyup', function(){
+        $('.buscador').on('keyup', function(){
             var that = $(this).val().toLocaleUpperCase();
             
             actividades.each(function(){
@@ -596,6 +601,8 @@ function goBack() {
         $('#actvDepart .select-default-option').prop('checked', true);
         $('#actvDepart .select-default-option') .attr('checked', 'checked');
     }
+    
+    
     
     // paginacion actividades
     function paginarActividad() {
@@ -690,4 +697,6 @@ function goBack() {
 
         $(window).hashchange();
     }
+    
+    
 

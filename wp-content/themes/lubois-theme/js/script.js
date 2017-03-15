@@ -17,12 +17,11 @@
                 dinamicaPlantillaActividades();
                 orderActividades();
                 ultimasActividades(objetoJson);
-                // montarMapa();
                 ordenarActividades();
                 dinamicaPlantillaActividades();
                 montarMapa();
-                verActividad();
                 calendario(objetoJson);
+                verActividad();
             });
         });
     

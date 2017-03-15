@@ -28,6 +28,7 @@ function rellenarPlantilla(plantilla, contenido){
                 if(destino){
                     if(key === 'imagen'){
                         actual.find('[name="'+key+'"]').css('background-image', 'url("data:image/jpeg;base64,'+contenido[i][key]+'")');
+                        
                     }else if(destino.is('input') || destino.is('select')){
                         actual.find(key2).val(contenido[i][key]);
                     }else{
